@@ -1,6 +1,10 @@
 # Cookie-clicker-ascension-bot
 This is a program which you can use to obtain the Achievement "Endless Cycle" on Cookie Clicker
 
-The parameters I used were specifically adapted for my progress in the game, that's because if you download the bot, you'll most likely have to modify the parameters a bit, because you might not have the same Cookies per second I had when I obtained the achievement.
+You need to have ALL the heavenly upgrades in order for the bot to work.
 
 The bot is made for a resolution of 1920x1080, however, if this project is well received, I will improve it to all standard resolutions.
+
+This program is very simple, it just clicks on the buttons necessary to buy buildings and upgrades, that's why it only works with 1920x1080.
+
+I hopr it helps you to achieve those 1000 ascensions! :)
